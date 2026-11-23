@@ -4,7 +4,6 @@ A two-player tic-tac-toe game built with HTML, CSS, and vanilla JavaScript. No l
 
 <img width="503" height="519" alt="Screenshot 2026-10-15 at 9 51 11 AM" src="https://github.com/user-attachments/assets/49d00d3b-e08c-4fb7-a022-7df32f98434c" />
 
-
 **Live Site**: https://lou7776.github.io/tic-tac-toe-javascript/
 
 ## How to play
